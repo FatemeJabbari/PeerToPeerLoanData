@@ -89,4 +89,27 @@ Metrics used:
 2. Profit Scoring Framework
 * Desicion Tree
   
-📊 Key Visualizations
+📊 Key Visualizations 
+* Distribution of all features
+<img width="1489" height="290" alt="dist1" src="https://github.com/user-attachments/assets/4e09448b-174c-438a-a026-f2093536bcb2" />
+<img width="1481" height="290" alt="dist2" src="https://github.com/user-attachments/assets/85307340-9c7e-4321-9fc7-97daddad1336" />
+<img width="1489" height="290" alt="dist3" src="https://github.com/user-attachments/assets/29f57a5a-ddaa-4e2b-b462-51e1cb73ed8c" />
+<img width="1489" height="290" alt="dist4" src="https://github.com/user-attachments/assets/b3f6efd8-7289-45dd-93d2-021a0eaf6a5a" />
+<img width="1489" height="290" alt="distt5" src="https://github.com/user-attachments/assets/61260693-8208-4749-9d3e-40ef5bf06ecd" />
+<img width="1489" height="290" alt="dist6" src="https://github.com/user-attachments/assets/eaabbe89-44c5-46fe-87e8-17fcfe1d4531" />
+* Correlation between Term and other features
+  <img width="1175" height="841" alt="corr" src="https://github.com/user-attachments/assets/39f38301-b6ac-4bbd-853b-2985670e6c10" />
+📝 Key Findings
+
+* Profit scoring provides better lender returns than traditional credit scoring.
+  📌 Future Enhancements
+* Incorporate time-based survival modeling (Cox PH)
+
+* Add macroeconomic variables for more realistic profit forecasting
+
+* Build a dashboard to visualize risk-return trade-offs
+
+* Deploy a simple API for profit scoring predictions
+
+
+If you have questions or ideas, feel free to reach out!
